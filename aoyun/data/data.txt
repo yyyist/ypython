@@ -1,0 +1,83 @@
+美国,1,39,41,33,113,United States
+中国,2,38,32,18,88,China
+日本,3,27,14,17,58,Japan
+英国,4,22,21,22,65,United Kingdom
+澳大利亚,6,17,7,22,46,Australia
+荷兰,7,10,12,14,36,Netherlands
+法国,8,10,12,11,33,France
+德国,9,10,11,16,37,Germany
+意大利,10,10,10,20,40,Italy
+加拿大,11,7,6,11,24,Canada
+巴西,12,7,6,8,21,Brazil
+新西兰,13,7,6,7,20,New Zealand
+古巴,14,7,3,5,15,Cuba
+匈牙利,15,6,7,7,20,Hungary
+韩国,16,6,4,10,20,Korea
+波兰,17,4,5,5,14,Poland
+肯尼亚,19,4,4,2,10,Kenya
+挪威,20,4,2,2,8,Norway
+牙买加,21,4,1,4,9,Jamaica
+西班牙,22,3,8,6,17,Spain
+瑞典,23,3,6,0,9,Sweden
+瑞士,24,3,4,6,13,Switzerland
+丹麦,25,3,4,4,11,Denmark
+克罗地亚,26,3,3,2,8,Croatia
+伊朗,27,3,2,2,7,Iran
+塞尔维亚,28,3,1,5,9,Serbia
+比利时,29,3,1,3,7,Belgium
+保加利亚,30,3,1,2,6,Bulgaria
+斯洛文尼亚,31,3,1,1,5,Slovenia
+乌兹别克斯坦,32,3,0,2,5,Uzbekistan
+格鲁吉亚,33,2,5,1,8,Georgia
+土耳其,35,2,2,9,13,Turkey
+希腊,36,2,1,1,4,Greece
+乌干达,36,2,1,1,4,Uganda
+厄瓜多尔,38,2,1,0,3,Ecuador
+爱尔兰,39,2,0,2,4,Ireland
+以色列,39,2,0,2,4,Israel
+卡塔尔,41,2,0,1,3,Qatar
+巴哈马,42,2,0,0,2,Bahamas
+乌克兰,44,1,6,12,19,Ukraine
+白俄罗斯,45,1,3,3,7,Belarus
+罗马尼亚,46,1,3,0,4,Romania
+委内瑞拉,46,1,3,0,4,Venezuela
+印度,48,1,2,4,7,India
+菲律宾,50,1,2,1,4,Philippines
+斯洛伐克,50,1,2,1,4,Slovakia
+南非,52,1,2,0,3,South Africa
+奥地利,53,1,1,5,7,Austria
+埃及,54,1,1,4,6,Egypt
+埃塞俄比亚,56,1,1,2,4,Ethiopia
+葡萄牙,56,1,1,2,4,Portugal
+突尼斯,58,1,1,0,2,Tunisia
+爱沙尼亚,59,1,0,1,2,Estonia
+斐济,59,1,0,1,2,Fiji
+拉脱维亚,59,1,0,1,2,Latvia
+泰国,59,1,0,1,2,Thailand
+摩洛哥,63,1,0,0,1,Morocco
+波多黎各,63,1,0,0,1,Puerto Rico
+哥伦比亚,66,0,4,1,5,Colombia
+阿塞拜疆,67,0,3,4,7,Azerbaijan
+亚美尼亚,69,0,2,2,4,Armenia
+吉尔吉斯斯坦,70,0,2,1,3,Kyrgyzstan
+蒙古,71,0,1,3,4,Mongolia
+阿根廷,72,0,1,2,3,Argentina
+圣马力诺,72,0,1,2,3,San Marino
+约旦,74,0,1,1,2,Jordan
+马来西亚,74,0,1,1,2,Malaysia
+尼日利亚,74,0,1,1,2,Nigeria
+巴林,77,0,1,0,1,Bahrain
+立陶宛,77,0,1,0,1,Lithuania
+纳米比亚,77,0,1,0,1,Namibia
+沙特阿拉伯,77,0,1,0,1,Saudi Arabia
+土库曼斯坦,77,0,1,0,1,Turkmenistan
+哈萨克斯坦,83,0,0,8,8,Kazakhstan
+墨西哥,84,0,0,4,4,Mexico
+芬兰,85,0,0,2,2,Finland
+博茨瓦纳,86,0,0,1,1,Botswana
+布基纳法索,86,0,0,1,1,Burkina Faso
+加纳,86,0,0,1,1,Ghana
+科特迪瓦,86,0,0,1,1,Côte d'Ivoire
+科威特,86,0,0,1,1,Kuwait
+摩尔多瓦,86,0,0,1,1,Moldova
+叙利亚,86,0,0,1,1,Syria
